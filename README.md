@@ -7,6 +7,7 @@ Impliment https://simpletouchsoftware.com/timers/tabatapro/.
 - The application will display a "Start" button, once clicked, you will alternate a green background with a decrementing 20 secs timer in the center, followed by a decrementing 10 secs timer with a red background. When a total of 10 sets is finished, reset the app to the initial state.
 - During workout, users should be able to "stop" the timer and go back to initial state.
 - Style it (Change background colors of the divs).
+- Take input for cycles, workout, rest time
 
 Algorithm
 
